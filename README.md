@@ -1,2 +1,2 @@
-# c-sharp
+# Algoritmos em C-sharp
 Algoritmos em C#
